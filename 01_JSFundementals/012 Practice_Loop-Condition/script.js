@@ -15,10 +15,8 @@
 'use strict';
 
 
-
+/*
 const numberOfFilms = +prompt('How much films did yoy see?', '');
-
-
 
     const personalMovieDB = {
         count: numberOfFilms,
@@ -53,6 +51,100 @@ const numberOfFilms = +prompt('How much films did yoy see?', '');
         console.log('Just Error!') }
 
 
-
-
 console.log(personalMovieDB)
+
+ */
+
+
+    const numberOfFilms = prompt('How films did you see?', '');
+
+    const personalMovieBD = {
+        count: numberOfFilms,
+        movies: {}
+    }
+
+    // --- while - case
+/*
+    let i= 0
+    while( i < 2  ){
+        const a = prompt('What the films you see last time?', ''),
+            b = prompt('Rating please', '');
+
+        i++;
+
+        if(a != null && b != null && a != '' && b != ''&& personalMovieBD.count < 50 ){
+            console.log('Done')
+
+           personalMovieBD.movies[a] = b
+        } else {
+            console.log('Error');
+            i--
+        }
+
+    }
+
+
+ */
+
+    // --- do while case
+
+    let i=0;
+
+    do{
+        const a = prompt('What the films you see last time?', ''),
+            b = prompt('Rating please', '');
+
+        i++;
+
+        if (a != null && b != null && a !='' && b !='' && personalMovieBD.count < 50){
+            console.log('Done');
+
+            personalMovieBD.movies[a] =b;
+        }else {
+            console.log('Error')
+            i--;
+        }
+
+
+
+    }while (i<2);
+
+
+
+    if (numberOfFilms < 10){
+        console.log('Loser')
+    }else if (numberOfFilms > 10 && numberOfFilms < 30){
+        console.log('Medium')
+    }else if(numberOfFilms > 30){
+        console.log('Monster')
+    }else {
+        console.log('Error')
+    }
+
+
+    console.log(personalMovieBD )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
