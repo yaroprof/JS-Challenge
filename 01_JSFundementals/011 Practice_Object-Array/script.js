@@ -8,7 +8,7 @@ const personalMovieDB = {
     privat: false
 };
 
-const a  = prompt('Your of the last films?', ''),
+const a = prompt('Your of the last films?', ''),
         b = prompt('Your rating?', ''),
         c  = prompt('Your of the last films?', ''),
         d = prompt('Your rating?', '');
