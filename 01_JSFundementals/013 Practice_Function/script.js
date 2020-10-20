@@ -17,19 +17,17 @@ P.S. Функции вызывать не обязательно*/
 
 
 
-let numberOfFilms;
+    let numberOfFilms;
 
-function start(){
-    numberOfFilms = +prompt('How films did you see?', '');
-
-    while( numberOfFilms == '' || numberOfFilms == null || isNaN(numberOfFilms) ){
+    function start(){
         numberOfFilms = +prompt('How films did you see?', '');
+
+        while( numberOfFilms == '' || numberOfFilms == null || isNaN(numberOfFilms) ){
+            numberOfFilms = +prompt('How films did you see?', '');
+        }
+
     }
-
-}
-
-start()
-
+    start()
 
 
     const personalMovieDB = {
@@ -40,19 +38,67 @@ start()
         privat: false
     };
 
+    function rememberMyFilms(){
+        for (let i=0; i < 2; i++){
+            const a = prompt('Your of the last films?', ''),
+                b = prompt('Your rating?', '');
+
+            if ( a != null && b != null && a != '' && b != '' && a.length < 50){
+                personalMovieDB.movies[a] = b;
+                console.log('done')
+            }else{
+                console.log('error');
+                i--;
+            }
+        }
+    }
+
+    rememberMyFilms();
+
+        function detectPersonalLevel(){
+            if (personalMovieDB.count < 10){
+                console.log('You are weak viewer ')
+            }else if ( personalMovieDB.count >= 10 && personalMovieDB.count < 30 ){
+                console.log('You are common viewer')
+            }else if ( personalMovieDB.count >= 30 ){
+                console.log('You are movie buff')
+            }else{
+                console.log('Just Error!') }
+
+        }
+
+        detectPersonalLevel();
 
 
-    if (personalMovieDB.count < 10){
-        console.log('You are weak viewer ')
-    }else if ( personalMovieDB.count >= 10 && personalMovieDB.count < 30 ){
-        console.log('You are common viewer')
-    }else if ( personalMovieDB.count >= 30 ){
-        console.log('You are movie buff')
-    }else{
-        console.log('Just Error!') }
+function writeYourGenres(){
+
+    for (let n= 0; n < 3; n++){
+        let c = prompt(`Your favorite genre is numbered ${ personalMovieDB.genres }`, ''),
+            d = prompt('Genre number from 1 to 3');
+
+        if( c !=null && d != null && c != '' && d != ''  ){
+            personalMovieDB.genres[c] = d;
+        }else{
+            console.log('Error');
+            n-- 
+        }
+    }
+
+    }
+
+    writeYourGenres();
 
 
-console.log(personalMovieDB)
+
+    function showMyDB(){
+            if(personalMovieDB.privat === false){
+                console.log(personalMovieDB)
+            }
+        }
+
+        showMyDB();
+
+
 
 
 
