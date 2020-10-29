@@ -20,10 +20,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31f118c9-9b19-4d0a-b573-ecd2daff168a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS-practice/014 Refactoring/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS-practice/014 Refactoring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS-practice/014 Refactoring/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS-practice/014 Refactoring/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../014 Refactoring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../014 Refactoring/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../014 Refactoring/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../014 Refactoring/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../011 Practice_Object-Array/Task1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../JS-practice/011 Practice_Object-Array/Task1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../011 Practice_Object-Array/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JS-practice/011 Practice_Object-Array/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../011 Practice_Object-Array/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JS-practice/011 Practice_Object-Array/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012 Practice_Loop-Condition/.idea/012 Practice_Loop-Condition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JS-practice/012 Practice_Loop-Condition/.idea/012 Practice_Loop-Condition.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012 Practice_Loop-Condition/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012 Practice_Loop-Condition/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JS-practice/012 Practice_Loop-Condition/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012 Practice_Loop-Condition/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012 Practice_Loop-Condition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JS-practice/012 Practice_Loop-Condition/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012 Practice_Loop-Condition/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JS-practice/012 Practice_Loop-Condition/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../012 Practice_Loop-Condition/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../JS-practice/012 Practice_Loop-Condition/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../014 Refactoring/.idea/013 Practice_Function.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JS-practice/014 Refactoring/.idea/013 Practice_Function.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../014 Refactoring/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JS-practice/012 Practice_Loop-Condition/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../014 Refactoring/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JS-practice/014 Refactoring/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../014 Refactoring/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JS-practice/012 Practice_Loop-Condition/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../014 Refactoring/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../014 Refactoring/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JS-practice/014 Refactoring/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../014 Refactoring/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../11_OOP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_OOP/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../11_OOP/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +97,9 @@
       <workItem from="1603359551898" duration="75000" />
       <workItem from="1603443956236" duration="684000" />
       <workItem from="1603445214555" duration="120000" />
+      <workItem from="1603445737209" duration="163000" />
+      <workItem from="1603445902722" duration="18000" />
+      <workItem from="1603445921755" duration="2533000" />
     </task>
     <servers />
   </component>
@@ -92,10 +119,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2540" y="259" key="FileChooserDialogImpl" timestamp="1603445334031">
+    <state x="2540" y="259" key="FileChooserDialogImpl" timestamp="1603451013194">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state x="2540" y="259" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1603445334031" />
+    <state x="2540" y="259" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1603451013194" />
     <state width="1637" height="141" key="GridCell.Tab.0.bottom" timestamp="1603311363120">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>

@@ -1,72 +1,20 @@
-let str = 'some';
-let strObj = new String(str);
-
-// console.log(strObj);  // [String: 'some']
-// console.log(typeof (str))
-// console.log(typeof (strObj))
-
-// console.dir([1,2,3])
-/*
-const soldier = {
-    health: 400,
-    armor: 100
+function hello(){
+    console.log('Hello world');
+    debugger;
 }
-const john= {
-    health: 100
+hello();
+
+function hi(){
+    console.log('Say Hi!')
 }
-john.__proto__= soldier
-console.log(john.armor)
-
- */
-
-// --> setPrototypeOf
+hi();
 
 
-const soldier = {
-    health: 400,
-    armor: 100,
-    sayHello(){
-        console.log('Hello')
-    }
+const arr = [3,1,7,6],
+    sorted = arr.sort(compareNum);
+
+function compareNum(a,b){
+    return a-b;
 }
-
-// const john = {
-//     health: 100
-// }
-
-// Object.setPrototypeOf(john, soldier);
-// john.sayHello()
-
-
-// ---> Object.create
-
-const john= Object.create(soldier)
-john.sayHello()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+compareNum();
 
