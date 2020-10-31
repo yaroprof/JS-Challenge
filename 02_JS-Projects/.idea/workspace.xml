@@ -22,8 +22,7 @@
     <list default="true" id="6db3932b-e3b7-40d9-90df-1dde3d35d814" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../01_JSFundementals/LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/LinkedList/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01_JSFundementals/PrototypeObject/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/PrototypeObject/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_bookList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/07_bookList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_toastNotification/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/08_toastNotification/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03_JS-Tasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03_JS-Tasks/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,8 +45,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/09_autoWriteText" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/10_popup.js" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Documents\01_WorkSpace\JS-challenge\02_JS-Projects" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -59,8 +64,12 @@
       <updated>1603471876969</updated>
       <workItem from="1603471878041" duration="8000" />
       <workItem from="1604143287727" duration="13000" />
+      <workItem from="1604146218588" duration="1016000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -75,9 +84,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2540" y="259" key="FileChooserDialogImpl" timestamp="1604143299038">
+    <state x="2540" y="259" key="FileChooserDialogImpl" timestamp="1604151749724">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state x="2540" y="259" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604143299038" />
+    <state x="2540" y="259" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604151749724" />
   </component>
 </project>

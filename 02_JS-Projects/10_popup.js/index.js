@@ -1,48 +1,12 @@
+const open = document.getElementById('open'),
+    close = document.getElementById('close'),
+    container = document.getElementById('container');
 
-const text = 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
-let index = 0;
+open.addEventListener('click', () =>{
+    container.classList.add('active');
+});
 
-function writeText(){
-
-    document.body.innerText = text.slice(0, index);
-    index++;
-
-    if (index > text.length){
-        index=0;
-    }
-}
-    setInterval(writeText, 100)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+close.addEventListener('click', ()=>{
+    container.classList.remove('active');
+})
 
