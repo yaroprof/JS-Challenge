@@ -20,15 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a352fcb0-008d-45e7-b89e-c31c87bf5428" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/11_OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/11_OOP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/11_OOP/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/11_OOP/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/12_Debaging/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/12_Debaging/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/12_Debaging/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/12_Debaging/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/12_Debaging/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/12_Debaging/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/13_DynamicTyping/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/13_DynamicTyping/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task_p1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/LinkedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/PrototypeObject/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/PrototypeObject/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02_JS-Projects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_JS-Projects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +39,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -63,12 +61,16 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.task_p1.js">
     <configuration name="task1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/task1.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="task_p1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/task_p1.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.task_p1.js" />
         <item itemvalue="Node.js.task1.js" />
       </list>
     </recent_temporary>
@@ -81,7 +83,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603465114615</updated>
-      <workItem from="1603465115662" duration="6168000" />
+      <workItem from="1603465115662" duration="6569000" />
+      <workItem from="1603720069163" duration="458000" />
+      <workItem from="1604249082211" duration="3947000" />
     </task>
     <servers />
   </component>
@@ -98,24 +102,29 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1603471321738">
+    <state x="2540" y="259" key="FileChooserDialogImpl" timestamp="1603720529896">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1603471321738" />
-    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1603471321737">
+    <state x="2540" y="259" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1603720529896" />
+    <state width="1637" height="185" key="GridCell.Tab.0.bottom" timestamp="1604262145619">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1603471321737" />
-    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1603471321737">
+    <state width="1637" height="185" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604262145619" />
+    <state width="1637" height="185" key="GridCell.Tab.0.center" timestamp="1604262145619">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1603471321737" />
-    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1603471321738">
+    <state width="1637" height="185" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604262145619" />
+    <state width="1637" height="185" key="GridCell.Tab.0.left" timestamp="1604262145619">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1603471321738" />
+    <state width="1637" height="185" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604262145619" />
+    <state width="1637" height="185" key="GridCell.Tab.0.right" timestamp="1604262145619">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="185" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604262145619" />
     <state x="2401" y="115" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603471198815">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
