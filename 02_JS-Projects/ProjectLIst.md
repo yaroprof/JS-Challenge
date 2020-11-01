@@ -28,3 +28,44 @@ click show random toast message
 - add class
 - add it to body
 - interval
+
+
+#### 12 Background Changer
+
+- button w/click
+- generate color
+- change bg color on click
+
+
+#### 13 Dark mode toggle
+
+- text
+-css for dark mode
+toggle
+toggle event
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

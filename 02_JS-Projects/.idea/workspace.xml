@@ -20,19 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6db3932b-e3b7-40d9-90df-1dde3d35d814" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/11_purpleHeartRain.js/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_purpleHeartRain.js/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_purpleHeartRain.js/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_purpleHeartRain.js/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_purpleHeartRain.js/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_purpleHeartRain.js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_purpleHeartRain.js/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_bgChanger.js/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_bgChanger.js/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_bgChanger.js/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_bgChanger.js/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_bgChanger.js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_bgChanger.js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_bgChanger.js/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01_JSFundementals/LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/LinkedList/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01_JSFundementals/PrototypeObject/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/PrototypeObject/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_popup.js/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/10_popup.js/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_popup.js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/10_popup.js/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectLIst.md" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectLIst.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../03_JS-Tasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../03_JS-Tasks/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/11_purpleHeartRain.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -77,6 +74,7 @@
       <workItem from="1604146218588" duration="1016000" />
       <workItem from="1604155025214" duration="147000" />
       <workItem from="1604155516248" duration="52000" />
+      <workItem from="1604228865468" duration="2822000" />
     </task>
     <servers />
   </component>
