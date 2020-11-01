@@ -12,8 +12,6 @@ click show random toast message
 - show text based on index
 - increment index
 
-
-
 #### 10 Popup/ Modal
 
 - button
@@ -21,3 +19,12 @@ click show random toast message
 - popup container
 - popup with text
 - close btn popup with click event
+
+#### 11 Purple Heart Rain
+
+- heart css
+- falling animation
+- create heart
+- add class
+- add it to body
+- interval
