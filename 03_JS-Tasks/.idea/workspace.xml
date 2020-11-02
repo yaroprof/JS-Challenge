@@ -20,8 +20,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a352fcb0-008d-45e7-b89e-c31c87bf5428" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02_palindrom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/LinkedList/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01.1_TaskQuestions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_maximumCharacter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/011 Practice_Object-Array/.idea/011 Practice_Object-Array.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.1 Practice_Object-Array/.idea/011 Practice_Object-Array.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/011 Practice_Object-Array/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.1 Practice_Object-Array/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/011 Practice_Object-Array/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.1 Practice_Object-Array/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/011 Practice_Object-Array/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.1 Practice_Object-Array/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/011 Practice_Object-Array/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.1 Practice_Object-Array/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/011 Practice_Object-Array/Task1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.1 Practice_Object-Array/Task1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/011 Practice_Object-Array/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.1 Practice_Object-Array/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/011 Practice_Object-Array/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.1 Practice_Object-Array/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/012 Practice_Loop-Condition/.idea/012 Practice_Loop-Condition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.2 Practice_Loop-Condition/.idea/012 Practice_Loop-Condition.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/012 Practice_Loop-Condition/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.2 Practice_Loop-Condition/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/012 Practice_Loop-Condition/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.2 Practice_Loop-Condition/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/012 Practice_Loop-Condition/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.2 Practice_Loop-Condition/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/012 Practice_Loop-Condition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.2 Practice_Loop-Condition/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/012 Practice_Loop-Condition/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.2 Practice_Loop-Condition/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/012 Practice_Loop-Condition/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.2 Practice_Loop-Condition/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/014 Refactoring/.idea/013 Practice_Function.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.4 Refactoring/.idea/013 Practice_Function.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/014 Refactoring/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.4 Refactoring/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/014 Refactoring/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.4 Refactoring/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/014 Refactoring/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.4 Refactoring/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/014 Refactoring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.4 Refactoring/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/014 Refactoring/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.4 Refactoring/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/014 Refactoring/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.4 Refactoring/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/013 Practice_Function/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.3 Practice_Function/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/013 Practice_Function/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.3 Practice_Function/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/LinkedList/.idea/PrototypeObject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.5 LinkedList/.idea/PrototypeObject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/LinkedList/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.5 LinkedList/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/LinkedList/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.5 LinkedList/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/LinkedList/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.5 LinkedList/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.5 LinkedList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/LinkedList/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.5 LinkedList/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_JSFundementals/LinkedList/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/0.1_JS-practice/01.5 LinkedList/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01_JSFundementals/PrototypeObject/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../01_JSFundementals/PrototypeObject/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../02_JS-Projects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_JS-Projects/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -55,11 +86,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.02_palindrom.js">
+  <component name="RunManager" selected="Node.js.01.1_TaskQuestions.js">
+    <configuration name="01.1_TaskQuestions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/01.1_TaskQuestions.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <configuration name="01_reversed.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/01_reversed.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -71,6 +105,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.01.1_TaskQuestions.js" />
         <item itemvalue="Node.js.02_palindrom.js" />
         <item itemvalue="Node.js.01_reversed.js" />
         <item itemvalue="Node.js.task1.js" />
@@ -88,7 +123,8 @@
       <workItem from="1603465115662" duration="6569000" />
       <workItem from="1603720069163" duration="458000" />
       <workItem from="1604249082211" duration="5361000" />
-      <workItem from="1604310474391" duration="1846000" />
+      <workItem from="1604310474391" duration="2899000" />
+      <workItem from="1604314088006" duration="4341000" />
     </task>
     <servers />
   </component>
@@ -108,29 +144,33 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2540" y="259" key="FileChooserDialogImpl" timestamp="1604262330149">
+    <state x="2540" y="259" key="FileChooserDialogImpl" timestamp="1604319395387">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state x="2540" y="259" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604262330149" />
-    <state width="1637" height="185" key="GridCell.Tab.0.bottom" timestamp="1604312498017">
+    <state x="2540" y="259" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604319395387" />
+    <state width="1637" height="185" key="GridCell.Tab.0.bottom" timestamp="1604319396460">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="185" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604312498017" />
-    <state width="1637" height="185" key="GridCell.Tab.0.center" timestamp="1604312498017">
+    <state width="1637" height="185" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604319396460" />
+    <state width="1637" height="185" key="GridCell.Tab.0.center" timestamp="1604319396460">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="185" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604312498017" />
-    <state width="1637" height="185" key="GridCell.Tab.0.left" timestamp="1604312498016">
+    <state width="1637" height="185" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604319396460" />
+    <state width="1637" height="185" key="GridCell.Tab.0.left" timestamp="1604319396460">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="185" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604312498016" />
-    <state width="1637" height="185" key="GridCell.Tab.0.right" timestamp="1604312498017">
+    <state width="1637" height="185" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604319396460" />
+    <state width="1637" height="185" key="GridCell.Tab.0.right" timestamp="1604319396460">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state width="1637" height="185" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604312498017" />
+    <state width="1637" height="185" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604319396460" />
     <state x="2401" y="115" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603471198815">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
     <state x="2401" y="115" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1603471198815" />
+    <state x="2423" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1604317350833">
+      <screen x="1920" y="0" width="1680" height="1010" />
+    </state>
+    <state x="2423" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604317350833" />
   </component>
 </project>
