@@ -19,7 +19,34 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6785a7a-40a7-486b-975a-e85c51c919da" name="Default Changelist" comment="">
+    <list default="true" id="7662238e-fcf3-4d1e-88f9-d99109f5b1ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/01.3 Site1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/._index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/css/._style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/icons/._logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/newClass.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/Group 5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/switch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/veg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/slider/food-12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/slider/olive-oil.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/slider/paprika.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/slider/pepper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tabs/elite.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tabs/hamburger.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tabs/post.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tabs/vegy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../02_JS-Projects/14_carousel.js/.idea/07_bookList.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../02_JS-Projects/14_carousel.js/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../02_JS-Projects/14_carousel.js/.idea/modules.xml" afterDir="false" />
@@ -29,6 +56,9 @@
       <change afterPath="$PROJECT_DIR$/../../../02_JS-Projects/14_carousel.js/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../02_JS-Projects/14_carousel.js/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.2 LinkedList/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01.2 LinkedList/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01.2 LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01.2 LinkedList/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../02_JS-Projects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../02_JS-Projects/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,10 +69,18 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectId" id="1jVkcBiuhejUFPEyPK906yxKzrN" />
+  <component name="ProjectId" id="1jurIdsarhQ4vdRsEtTcvmTCoAe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -51,34 +89,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../01.3 Site1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RunManager">
-    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/script.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Node.js.script.js" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e6785a7a-40a7-486b-975a-e85c51c919da" name="Default Changelist" comment="" />
-      <created>1603896723610</created>
+      <changelist id="7662238e-fcf3-4d1e-88f9-d99109f5b1ba" name="Default Changelist" comment="" />
+      <created>1604664738837</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1603896723610</updated>
-      <workItem from="1603896724645" duration="2638000" />
-      <workItem from="1603963804101" duration="268000" />
-      <workItem from="1603968862720" duration="6207000" />
-      <workItem from="1604075410147" duration="8608000" />
-      <workItem from="1604140795635" duration="612000" />
-      <workItem from="1604664662867" duration="75000" />
+      <updated>1604664738837</updated>
+      <workItem from="1604664739898" duration="11965000" />
+      <workItem from="1604932170216" duration="5518000" />
     </task>
     <servers />
   </component>
@@ -98,30 +123,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2595" y="229" key="FileChooserDialogImpl" timestamp="1604664737580">
+    <state x="2540" y="259" key="FileChooserDialogImpl" timestamp="1604940371833">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state x="2595" y="229" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604664737580" />
-    <state x="617" y="187" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603964072598" />
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1604091418648">
-      <screen x="1920" y="0" width="1680" height="1010" />
-    </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604091418648" />
-    <state width="1340" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603900645880" />
-    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1604091418648">
-      <screen x="1920" y="0" width="1680" height="1010" />
-    </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604091418648" />
-    <state width="1340" height="194" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603900645880" />
-    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1604091418647">
-      <screen x="1920" y="0" width="1680" height="1010" />
-    </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604091418647" />
-    <state width="1340" height="194" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603900645879" />
-    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1604091418648">
-      <screen x="1920" y="0" width="1680" height="1010" />
-    </state>
-    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604091418648" />
-    <state width="1340" height="194" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1603900645880" />
+    <state x="2540" y="259" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604940371833" />
   </component>
 </project>
