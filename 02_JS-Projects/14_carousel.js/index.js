@@ -1,34 +1,18 @@
+ const imgs = document.getElementById('imgs'),
+     img = document.querySelectorAll('#imgs img');
 
-// const toggle = document.getElementById('toggle');
-// toggle.addEventListener('change', (e)=>{
-//     document.body.classList.toggle('dark', e.target.checked);
-// });
+ let idx = 0;
 
+function run(){
+    idx++;
 
-const toggle = document.getElementById('toggle');
+    if(idx > img.length-1){
+        idx = 0;
+    }
 
-toggle.addEventListener('change', (e)=>{
-    document.body.classList.toggle('dark', e.target.checked);
-})
-
-
-
+    imgs.style.transform = `translateX(${-idx  * 500}px)`;
 
 
+};
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ setInterval(run, 2000);
