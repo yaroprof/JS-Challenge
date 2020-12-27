@@ -1,0 +1,16 @@
+:root{
+    --mainPink: #f46197;
+    --mainGreen: #2ca58d;
+}
+
+
+body{
+
+    font-family: 'Charm', cursive;
+    font-family: 'Roboto', sans-serif;
+    color: var(--mainPink);
+}
+
+h1{
+    color: var(--mainGreen);
+}
