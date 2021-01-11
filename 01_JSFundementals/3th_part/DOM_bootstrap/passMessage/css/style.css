@@ -1,0 +1,39 @@
+:root {
+    --lightGrey: #767e83;
+    --mainWhite: #f5f5f5;
+    --mainBlack: #333333;
+}
+
+.max-height{
+    min-height: 100vh;
+}
+
+body{
+    background: var(--lightGrey);
+
+}
+.message-container{
+    background: var(--mainWhite);
+}
+
+.message-content{
+    color: var(--lightGrey);
+}
+
+#submitBtn{
+    background: var(--lightGrey);
+    color: var(--mainBlack);
+}
+
+#submitBtn:hover{
+    color: var(--lightGrey);
+    color: var(--mainBlack);
+}
+
+.feedback{
+    display: none;
+}
+
+.show{
+    display: block;
+}

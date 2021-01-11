@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="437646ba-a73a-4923-9a42-05067f10c9bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/camera.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-3.5.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/01_JSFundementals.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/.idea/0.1_JS-practice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.1 Practice_Object-Array/.idea/011 Practice_Object-Array.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.1 Practice_Object-Array/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.1 Practice_Object-Array/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.1 Practice_Object-Array/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.1 Practice_Object-Array/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.1 Practice_Object-Array/Task1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.1 Practice_Object-Array/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.1 Practice_Object-Array/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.2 Practice_Loop-Condition/.idea/012 Practice_Loop-Condition.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.2 Practice_Loop-Condition/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.2 Practice_Loop-Condition/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.2 Practice_Loop-Condition/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.2 Practice_Loop-Condition/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.2 Practice_Loop-Condition/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.2 Practice_Loop-Condition/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.3 Practice_Function/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.3 Practice_Function/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.4 Refactoring/.idea/013 Practice_Function.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.4 Refactoring/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.4 Refactoring/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.4 Refactoring/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.4 Refactoring/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.4 Refactoring/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.4 Refactoring/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.5 Event/.idea/013 Practice_Function.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.5 Event/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.5 Event/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.5 Event/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.5 Event/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.5 Event/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.1.5 Event/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.2 LinkedList/.idea/PrototypeObject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.2 LinkedList/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.2 LinkedList/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.2 LinkedList/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.2 LinkedList/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.2 LinkedList/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.2 LinkedList/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/.idea/01.3 Site1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/__MACOSX/._index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/__MACOSX/css/._style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/__MACOSX/icons/._logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/css/newClass.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/icons/Group 5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/icons/facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/icons/instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/icons/left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/icons/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/icons/right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/icons/switch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/icons/veg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/img/slider/food-12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/img/slider/olive-oil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/img/slider/paprika.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/img/slider/pepper.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/img/tabs/elite.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/img/tabs/hamburger.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/img/tabs/post.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/img/tabs/vegy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.0 siteFood/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.1 siteFood-countdownTimer/.idea/01.3 Site1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.1 siteFood-countdownTimer/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.1 siteFood-countdownTimer/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.1 siteFood-countdownTimer/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.1 siteFood-countdownTimer/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.1 siteFood-countdownTimer/__MACOSX/._index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.1 siteFood-countdownTimer/__MACOSX/css/._style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.1 siteFood-countdownTimer/__MACOSX/icons/._logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.1 siteFood-countdownTimer/css/newClass.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.1 siteFood-countdownTimer/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.1 siteFood-countdownTimer/icons/Group 5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.1 siteFood-countdownTimer/icons/facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.1 siteFood-countdownTimer/icons/instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.1 siteFood-countdownTimer/icons/left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.1 siteFood-countdownTimer/icons/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.1 siteFood-countdownTimer/icons/right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.1 siteFood-countdownTimer/icons/switch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.1 siteFood-countdownTimer/icons/veg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.1 siteFood-countdownTimer/img/slider/food-12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.1 siteFood-countdownTimer/img/slider/olive-oil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.1 siteFood-countdownTimer/img/slider/paprika.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.1 siteFood-countdownTimer/img/slider/pepper.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.1 siteFood-countdownTimer/img/tabs/elite.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.1 siteFood-countdownTimer/img/tabs/hamburger.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.1 siteFood-countdownTimer/img/tabs/post.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.1 siteFood-countdownTimer/img/tabs/vegy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.1 siteFood-countdownTimer/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.1 siteFood-countdownTimer/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.2 siteFood-modalWindow/.idea/01.3 Site1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.2 siteFood-modalWindow/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.2 siteFood-modalWindow/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.2 siteFood-modalWindow/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.2 siteFood-modalWindow/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.2 siteFood-modalWindow/__MACOSX/._index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.2 siteFood-modalWindow/__MACOSX/css/._style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.2 siteFood-modalWindow/__MACOSX/icons/._logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.2 siteFood-modalWindow/css/newClass.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.2 siteFood-modalWindow/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.2 siteFood-modalWindow/icons/Group 5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.2 siteFood-modalWindow/icons/facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.2 siteFood-modalWindow/icons/instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.2 siteFood-modalWindow/icons/left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.2 siteFood-modalWindow/icons/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.2 siteFood-modalWindow/icons/right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.2 siteFood-modalWindow/icons/switch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.2 siteFood-modalWindow/icons/veg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.2 siteFood-modalWindow/img/slider/food-12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.2 siteFood-modalWindow/img/slider/olive-oil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.2 siteFood-modalWindow/img/slider/paprika.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.2 siteFood-modalWindow/img/slider/pepper.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.2 siteFood-modalWindow/img/tabs/elite.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.2 siteFood-modalWindow/img/tabs/hamburger.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.2 siteFood-modalWindow/img/tabs/post.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.2 siteFood-modalWindow/img/tabs/vegy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.2 siteFood-modalWindow/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.2 siteFood-modalWindow/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.3 siteFood-jsClasses/.idea/01.3 Site1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.3 siteFood-jsClasses/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.3 siteFood-jsClasses/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.3 siteFood-jsClasses/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.3 siteFood-jsClasses/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.3 siteFood-jsClasses/__MACOSX/._index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.3 siteFood-jsClasses/__MACOSX/css/._style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.3 siteFood-jsClasses/__MACOSX/icons/._logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.3 siteFood-jsClasses/css/newClass.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.3 siteFood-jsClasses/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.3 siteFood-jsClasses/icons/Group 5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.3 siteFood-jsClasses/icons/facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.3 siteFood-jsClasses/icons/instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.3 siteFood-jsClasses/icons/left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.3 siteFood-jsClasses/icons/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.3 siteFood-jsClasses/icons/right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.3 siteFood-jsClasses/icons/switch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.3 siteFood-jsClasses/icons/veg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.3 siteFood-jsClasses/img/slider/food-12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.3 siteFood-jsClasses/img/slider/olive-oil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.3 siteFood-jsClasses/img/slider/paprika.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.3 siteFood-jsClasses/img/slider/pepper.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.3 siteFood-jsClasses/img/tabs/elite.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.3 siteFood-jsClasses/img/tabs/hamburger.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.3 siteFood-jsClasses/img/tabs/post.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.3 siteFood-jsClasses/img/tabs/vegy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.3 siteFood-jsClasses/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.3.3 siteFood-jsClasses/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.4 timeFunction/.idea/01.4 timeFunction.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.4 timeFunction/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.4 timeFunction/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.4 timeFunction/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.4 timeFunction/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.4 timeFunction/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.4 timeFunction/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.4 timeFunction/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.5 datePractice/.idea/01.4 timeFunction.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.5 datePractice/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.5 datePractice/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.5 datePractice/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.5 datePractice/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.5 datePractice/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.5 datePractice/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/01.5 datePractice/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/02 Calculator-ajax/.idea/02 Calculator-ajax.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/02 Calculator-ajax/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/02 Calculator-ajax/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/02 Calculator-ajax/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/02 Calculator-ajax/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/02 Calculator-ajax/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/02 Calculator-ajax/js/current.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../0.1_JS-practice/02 Calculator-ajax/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_DataTypes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_DataTypes/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02 _Variables/Hoisting/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02 _Variables/Hoisting/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02 _Variables/LET-CONST/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02 _Variables/LET-CONST/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../03_Conditions/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../04_Loop/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../05_Operators/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../06_Function/CallBackFunc/.idea/CallBackFunc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../06_Function/CallBackFunc/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../06_Function/CallBackFunc/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../06_Function/CallBackFunc/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../06_Function/CallBackFunc/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../06_Function/CallBackFunc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../06_Function/CallBackFunc/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../06_Function/Scope/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../06_Function/Scope/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../06_Function/script1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../07.1_ ObjectDestructuring/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../07.1_ ObjectDestructuring/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../07_Objects/ObjectMethods/.idea/ObjectMethods.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../07_Objects/ObjectMethods/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../07_Objects/ObjectMethods/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../07_Objects/ObjectMethods/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../07_Objects/ObjectMethods/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../07_Objects/ObjectMethods/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../07_Objects/References-Values/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../07_Objects/References-Values/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../08_StringNumber Methods/script1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../09_ArrayPseudoArray/.idea/09_ArrayPseudoArray.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../09_ArrayPseudoArray/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../09_ArrayPseudoArray/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../09_ArrayPseudoArray/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../09_ArrayPseudoArray/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../09_ArrayPseudoArray/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../09_ArrayPseudoArray/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../11_OOP/.idea/10_RefrerencesVariableSpreadOperator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../11_OOP/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../11_OOP/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../11_OOP/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../11_OOP/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../11_OOP/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../11_OOP/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../12_Debaging/.idea/10_RefrerencesVariableSpreadOperator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../12_Debaging/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../12_Debaging/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../12_Debaging/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../12_Debaging/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../12_Debaging/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../12_Debaging/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../13_DynamicTyping/.idea/10_RefrerencesVariableSpreadOperator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../13_DynamicTyping/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../13_DynamicTyping/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../13_DynamicTyping/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../13_DynamicTyping/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../13_DynamicTyping/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../13_DynamicTyping/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../14_PageAction/.idea/10_RefrerencesVariableSpreadOperator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../14_PageAction/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../14_PageAction/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../14_PageAction/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../14_PageAction/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../14_PageAction/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../14_PageAction/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../14_PageAction/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../15_EventDelegation/.idea/01.3_Template1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../15_EventDelegation/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../15_EventDelegation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../15_EventDelegation/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../15_EventDelegation/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../15_EventDelegation/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../15_EventDelegation/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../15_EventDelegation/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../16_DocumentParameters/.idea/01.3_Template1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../16_DocumentParameters/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../16_DocumentParameters/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../16_DocumentParameters/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../16_DocumentParameters/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../16_DocumentParameters/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../16_DocumentParameters/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../16_DocumentParameters/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../17_FunctionConstructor/.idea/01.3_Template1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../17_FunctionConstructor/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../17_FunctionConstructor/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../17_FunctionConstructor/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../17_FunctionConstructor/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../17_FunctionConstructor/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../17_FunctionConstructor/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../17_FunctionConstructor/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../18_THIS-context/.idea/01.3_Template1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../18_THIS-context/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../18_THIS-context/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../18_THIS-context/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../18_THIS-context/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../18_THIS-context/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../18_THIS-context/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../18_THIS-context/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2th part/SpreadOperator.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2th part/SpreadOperator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorHexCreate/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../colorHexCreate/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorHexCreate/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../colorHexCreate/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorHexCreate/img/camera.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/../colorHexCreate/img/camera.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorHexCreate/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../colorHexCreate/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorHexCreate/js/all.js" beforeDir="false" afterPath="$PROJECT_DIR$/../colorHexCreate/js/all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorHexCreate/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../colorHexCreate/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorHexCreate/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../colorHexCreate/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorHexCreate/js/jquery-3.5.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../colorHexCreate/js/jquery-3.5.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorHexCreate/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../colorHexCreate/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorHexCreate/video/x3ms.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/../colorHexCreate/video/x3ms.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../changeBGColor/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../changeBGColor/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../changeBGColor/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../changeBGColor/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../changeBGColor/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../changeBGColor/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../changeBcgColor/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../changeBcgColor/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../changeBcgColor/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../changeBcgColor/js/all.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../changeBcgColor/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../changeBcgColor/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../changeBcgColor/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quotesRandom/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../quotesRandom/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConstructorFunction/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ConstructorFunction/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PrototypeObject/.idea/PrototypeObject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PrototypeObject/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PrototypeObject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PrototypeObject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PrototypeObject/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PrototypeObject/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../PrototypeObject/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Server/JSON/01/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Server/JSON/01/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_JS-Projects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../02_JS-Projects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_JS-Projects/14_carousel.js/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../02_JS-Projects/14_carousel.js/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_JS-Projects/14_carousel.js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../02_JS-Projects/14_carousel.js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../02_JS-Projects/14_carousel.js/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../02_JS-Projects/14_carousel.js/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1mF9wxmsXqwgobx4K2CVScYUrjB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/script.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.script.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="437646ba-a73a-4923-9a42-05067f10c9bc" name="Default Changelist" comment="" />
+      <created>1609078713937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609078713937</updated>
+      <workItem from="1609078715124" duration="6414000" />
+      <workItem from="1609155225697" duration="29000" />
+      <workItem from="1610381676099" duration="7466000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
