@@ -20,20 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a42ce5e-068c-4547-aae2-f81d2aaef320" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/01_JSFundementals/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_JSFundementals/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_JSFundementals/11_OOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_JSFundementals/11_OOP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_JSFundementals/11_OOP/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_JSFundementals/11_OOP/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_JSFundementals/12_Debaging/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_JSFundementals/12_Debaging/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_JSFundementals/12_Debaging/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/01_JSFundementals/12_Debaging/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_JSFundementals/12_Debaging/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_JSFundementals/12_Debaging/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_JSFundementals/13_DynamicTyping/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_JSFundementals/13_DynamicTyping/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_JSFundementals/14_PageAction/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_JSFundementals/14_PageAction/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_JSFundementals/14_PageAction/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/01_JSFundementals/14_PageAction/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_JSFundementals/14_PageAction/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_JSFundementals/14_PageAction/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_JSFundementals/14_PageAction/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/01_JSFundementals/14_PageAction/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_JS-Projects/07_bookList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/02_JS-Projects/07_bookList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_JS-Projects/08_toastNotification/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/02_JS-Projects/08_toastNotification/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_JSFundementals/0.1_JS-practice/01.3.2 siteFood-modalWindow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_JSFundementals/0.1_JS-practice/01.3.2 siteFood-modalWindow/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_JSFundementals/0.1_JS-practice/01.3.2 siteFood-modalWindow/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/01_JSFundementals/0.1_JS-practice/01.3.2 siteFood-modalWindow/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_JSFundementals/0.1_JS-practice/01.3.2 siteFood-modalWindow/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_JSFundementals/0.1_JS-practice/01.3.2 siteFood-modalWindow/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_JSFundementals/0.1_JS-practice/01.5 datePractice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_JSFundementals/0.1_JS-practice/01.5 datePractice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_JSFundementals/0.1_JS-practice/02 Calculator-ajax/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_JSFundementals/0.1_JS-practice/02 Calculator-ajax/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_JSFundementals/0.1_JS-practice/02 Calculator-ajax/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/01_JSFundementals/0.1_JS-practice/02 Calculator-ajax/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_JSFundementals/0.1_JS-practice/02 Calculator-ajax/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_JSFundementals/0.1_JS-practice/02 Calculator-ajax/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_JSFundementals/17_FunctionConstructor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_JSFundementals/17_FunctionConstructor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_JSFundementals/18_THIS-context/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_JSFundementals/18_THIS-context/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_JSFundementals/19_ClassesJS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/01_JSFundementals/19_ClassesJS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_JSFundementals/Server/JSON/01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/01_JSFundementals/Server/JSON/01/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_JSFundementals/Server/JSON/01/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/01_JSFundementals/Server/JSON/01/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_JS-Projects/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/02_JS-Projects/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_JS-Projects/14_carousel.js/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/02_JS-Projects/14_carousel.js/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_JS-Projects/14_carousel.js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/02_JS-Projects/14_carousel.js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_JS-Projects/14_carousel.js/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/02_JS-Projects/14_carousel.js/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03_JS-Tasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/03_JS-Tasks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_JS-Tasks/05 Math Sequences.js" beforeDir="false" afterPath="$PROJECT_DIR$/03_JS-Tasks/05 Math Sequences.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +59,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/01_JSFundementals" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_JS-Tasks" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Documents\01_WorkSpace\JS-challenge\01_JSFundementals\0.1_JS-practice" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -70,6 +80,8 @@
       <workItem from="1603720627631" duration="596000" />
       <workItem from="1603799367213" duration="982000" />
       <workItem from="1603964498580" duration="45000" />
+      <workItem from="1604319398228" duration="1822000" />
+      <workItem from="1607710703778" duration="13000" />
     </task>
     <servers />
   </component>
@@ -89,9 +101,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2540" y="259" key="FileChooserDialogImpl" timestamp="1603964541693">
+    <state x="2540" y="259" key="FileChooserDialogImpl" timestamp="1607710715911">
       <screen x="1920" y="0" width="1680" height="1010" />
     </state>
-    <state x="2540" y="259" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1603964541693" />
+    <state x="2540" y="259" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1607710715911" />
   </component>
 </project>
