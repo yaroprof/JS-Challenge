@@ -20,16 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6db3932b-e3b7-40d9-90df-1dde3d35d814" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/22_soundPanel/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22_soundPanel/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22_soundPanel/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22_soundPanel/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22_soundPanel/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22_soundPanel/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_BGslider/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_BGslider/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_BGslider/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_BGslider/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_BGslider/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24_BGslider/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17_quotesRandom/js/all.js" beforeDir="false" afterPath="$PROJECT_DIR$/17_quotesRandom/js/all.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/21_zoomEffect/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/21_zoomEffect/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/21_zoomEffect/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/21_zoomEffect/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_darkModeToggle.js/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/13_darkModeToggle.js/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16_colorHexCreate/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/16_colorHexCreate/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16_colorHexCreate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/16_colorHexCreate/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19_counter/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/19_counter/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19_counter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/19_counter/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +66,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/24_BGslider" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -72,6 +74,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Documents\01_WorkSpace\JS-challenge\02_JS-Projects" />
+      <recent name="C:\Documents\01_WorkSpace\JS-challenge\02_JS-Projects\23_animatedNavigation" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Documents\01_WorkSpace\JS-challenge\02_JS-Projects\22_soundPanel" />
@@ -98,7 +101,9 @@
       <workItem from="1610474919967" duration="4795000" />
       <workItem from="1610631207684" duration="172000" />
       <workItem from="1610719628850" duration="2109000" />
-      <workItem from="1610803603889" duration="1233000" />
+      <workItem from="1610803603889" duration="1336000" />
+      <workItem from="1610804953112" duration="722000" />
+      <workItem from="1611315042504" duration="110000" />
     </task>
     <servers />
   </component>

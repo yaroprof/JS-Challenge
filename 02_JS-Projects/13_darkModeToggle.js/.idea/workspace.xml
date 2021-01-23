@@ -20,20 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="495b0a0e-8655-421c-bc69-803f1b453e98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../01_JSFundementals/LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01_JSFundementals/LinkedList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../01_JSFundementals/PrototypeObject/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../01_JSFundementals/PrototypeObject/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../23_animatedNavigation/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../23_animatedNavigation/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../23_animatedNavigation/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10_popup.js/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../10_popup.js/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../10_popup.js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../10_popup.js/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectLIst.md" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectLIst.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_JS-Tasks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_JS-Tasks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_colorHexCreate/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../16_colorHexCreate/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_colorHexCreate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../16_colorHexCreate/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19_counter/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../19_counter/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19_counter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../19_counter/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +48,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../23_animatedNavigation" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -77,6 +72,7 @@
       <workItem from="1604151753604" duration="2896000" />
       <workItem from="1604155175234" duration="338000" />
       <workItem from="1604155570048" duration="4790000" />
+      <workItem from="1610830212478" duration="630000" />
     </task>
     <servers />
   </component>
@@ -94,16 +90,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="2568" y="291" key="FileChooserDialogImpl" timestamp="1604228862981">
-      <screen x="1920" y="0" width="1680" height="1010" />
-    </state>
-    <state x="2568" y="291" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604228862981" />
-    <state x="2660" y="334" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1160@1920.0.1920.1160" timestamp="1599215655309" />
-    <state x="2261" y="149" key="SettingsEditor" timestamp="1604143548161">
-      <screen x="1920" y="0" width="1680" height="1010" />
-    </state>
-    <state x="2261" y="149" key="SettingsEditor/0.0.1536.824/1920.0.1680.1010@1920.0.1680.1010" timestamp="1604143548161" />
   </component>
 </project>
