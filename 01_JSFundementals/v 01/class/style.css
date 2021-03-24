@@ -1,0 +1,19 @@
+.text-center{
+    text-align: center;
+}
+
+hr{
+    clear: both;
+}
+
+.orange{
+    padding: 5px;
+    color: #fff;
+    background: orange;
+}
+
+.red{
+    padding: 5px;
+    color: #fff;
+    background: red;
+}

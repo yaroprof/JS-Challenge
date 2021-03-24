@@ -20,18 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6db3932b-e3b7-40d9-90df-1dde3d35d814" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/24_BGslider/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_BGslider/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_BGslider/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_BGslider/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_BGslider/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24_BGslider/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26_vericalSlider/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26_vericalSlider/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26_vericalSlider/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26_vericalSlider/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26_vericalSlider/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26_vericalSlider/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26_vericalSlider/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13_darkModeToggle.js/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/13_darkModeToggle.js/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16_colorHexCreate/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/16_colorHexCreate/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16_colorHexCreate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/16_colorHexCreate/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/19_counter/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/19_counter/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/19_counter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/19_counter/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +62,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/24_BGslider" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/26_vericalSlider" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -104,6 +100,8 @@
       <workItem from="1610803603889" duration="1336000" />
       <workItem from="1610804953112" duration="722000" />
       <workItem from="1611315042504" duration="110000" />
+      <workItem from="1611410858756" duration="101000" />
+      <workItem from="1611587352602" duration="687000" />
     </task>
     <servers />
   </component>
